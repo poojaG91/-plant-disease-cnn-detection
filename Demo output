@@ -1,7 +1,0 @@
-result = predict_disease('test_leaf.jpg')
- Output:
-Predicted: Tomato_Late_blight
-Confidence: 0.92
-Disease Distance: 0.08
-Recommendation: Urgent: remove infected plants; use mancozeb
-Severity: MILD
