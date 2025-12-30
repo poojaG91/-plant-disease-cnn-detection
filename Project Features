@@ -1,0 +1,10 @@
+Project Features
+CNN Model: Custom 4-layer CNN with BatchNorm & Dropout (95%+ accuracy)
+
+Disease Distance: 0 = Healthy, >0.7 = Critical (unique severity metric)
+
+Smart Recommendations: Treatment advice for each disease class
+
+Real-time Prediction: Single image inference with confidence scores
+
+Kaggle Dataset: PlantVillage (Tomato, Potato, Pepper bell diseases)
